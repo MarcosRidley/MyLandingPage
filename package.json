@@ -1,0 +1,29 @@
+{
+  "name": "mylandingpage",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "private": true,
+  "scripts": {
+    "start": "webpack"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/MarcosRidley/MyLandingPage.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/MarcosRidley/MyLandingPage/issues"
+  },
+  "homepage": "https://github.com/MarcosRidley/MyLandingPage#readme",
+  "dependencies": {
+    "webpack": "^5.67.0"
+  },
+  "devDependencies": {
+    "css-loader": "^6.5.1",
+    "style-loader": "^3.3.1",
+    "webpack-cli": "^4.9.2"
+  }
+}
